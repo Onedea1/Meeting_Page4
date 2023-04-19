@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:meeting_page4/const/colors.dart';
-
-//모임요일
-
+//
 class DayChoice extends StatefulWidget {
   @override
   State<DayChoice> createState() => _DayChoiceState();
