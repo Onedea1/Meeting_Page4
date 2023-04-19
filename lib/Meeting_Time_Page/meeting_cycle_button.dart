@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meeting_page4/Meeting_Time_Page/choice_cycle/choice_cycle.dart';
+import 'package:meeting_page4/choice_cycle/choice_cycle.dart';
 import 'package:meeting_page4/const/colors.dart';
 
 class MeetingCycleButton extends StatefulWidget {
